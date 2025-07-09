@@ -6,3 +6,5 @@ need 2 GPUs to run the experiments
 
 ## todos
 1.distributed multi-GPU training
+2.RLHF
+3.DPO
